@@ -27,10 +27,10 @@ cc <file-name>
 ## About
 This is built with the help of ChatGPT.
 
-- Prompt:
+### Prompt:
 is there a command to copy the contents of a file in the terminal?
 
-- ChatGPT:
+### ChatGPT:
 Yes, you can copy the contents of a file in the terminal using a variety of commands depending on your operating system.
 
 For Linux and macOS, you can use the cat and cp commands.
